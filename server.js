@@ -8,7 +8,7 @@ Name: S M Shamayel Asim
 Student ID: 140863218
 Date: 5/29/2023
 Cyclic Web App URL: _______________________________________________________
-GitHub Repository URL: ______________________________________________________
+GitHub Repository URL: git@github.com:smsasim/web322.git
 
 ********************************************************************************/ 
 
